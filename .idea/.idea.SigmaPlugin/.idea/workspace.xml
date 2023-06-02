@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bc0685bb-01fa-42e1-94ca-388a2d6c50cd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SigmaPlugin/MainWindow.xaml.cs" />
+        <option value="$PROJECT_DIR$/SigmaPlugin/TestConfig.cs" />
+        <option value="$PROJECT_DIR$/SigmaPlugin/TestPlugin.cs" />
+        <option value="$PROJECT_DIR$/SigmaPlugin/TestCommands.cs" />
+        <option value="$PROJECT_DIR$/SigmaPlugin/Communication.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hqwXe2socWhSaOZd9FkIUJnKzR" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="SolutionBuilderGeneralOptionsPageId" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc0685bb-01fa-42e1-94ca-388a2d6c50cd" name="Default Changelist" comment="" />
+      <created>1600751972563</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600751972563</updated>
+      <workItem from="1600751977284" duration="5062000" />
+      <workItem from="1600758264459" duration="1000" />
+      <workItem from="1600809642486" duration="1367000" />
+      <workItem from="1600811884357" duration="3396000" />
+      <workItem from="1600815471058" duration="69000" />
+      <workItem from="1600815566861" duration="236000" />
+      <workItem from="1600815822792" duration="71000" />
+      <workItem from="1600816162388" duration="877000" />
+      <workItem from="1600818210622" duration="90000" />
+      <workItem from="1600818844985" duration="62000" />
+      <workItem from="1600874207842" duration="824000" />
+      <workItem from="1600958047799" duration="1749000" />
+      <workItem from="1600959826315" duration="207000" />
+      <workItem from="1600960584322" duration="674000" />
+      <workItem from="1601168807339" duration="2439000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1378" y="730" key="#Deployment" timestamp="1600815641998">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state x="1378" y="730" key="#Deployment/0.0.3840.2120/-1080.0.1080.1880/3840.0.1920.1040@0.0.3840.2120" timestamp="1600815641998" />
+    <state x="1374" y="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600959486206">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state x="1374" y="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3840.2120/-1080.0.1080.1880/3840.0.1920.1040@0.0.3840.2120" timestamp="1600959486206" />
+    <state x="1287" y="717" key="SettingsEditor" timestamp="1601169456876">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state x="1287" y="717" key="SettingsEditor/0.0.3840.2120/-1080.0.1080.1880/3840.0.1920.1040@0.0.3840.2120" timestamp="1601169456876" />
+    <state x="1449" y="511" width="672" height="678" key="search.everywhere.popup" timestamp="1600815638553">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state x="1449" y="511" width="672" height="678" key="search.everywhere.popup/0.0.3840.2120/-1080.0.1080.1880/3840.0.1920.1040@0.0.3840.2120" timestamp="1600815638553" />
+  </component>
+</project>
